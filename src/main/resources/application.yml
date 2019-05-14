@@ -1,0 +1,14 @@
+server:
+  port: 9303
+  servlet:
+    context-path: /sendsms
+
+
+alibaba:
+  signname: overun   #短信签名名称
+  templatecode: SMS_165119572   #短信模板ID
+  accessKeyId: LTAIZNxe9C3nf9LR    #accessKeyId
+  accessSecret: Ni3L9Vcm1YyiFSTX9tfNMwka7QT8uB   #accessSecret
+
+
+sendPassword: 9299    #简易密码
